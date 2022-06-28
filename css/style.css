@@ -38,7 +38,7 @@ a:hover { color: #ffffff; }
 
 /*Seção Nosso Cardárpio Pagina Inicial*/
 div#image1{
-    background-image: url(../img/prato-1.jpg);
+    background-image: url(../img/prato-1.jpeg);
     background-repeat: no-repeat;
     background-position: center;
 	background-size: cover;
